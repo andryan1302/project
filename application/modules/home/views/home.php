@@ -7,13 +7,6 @@
     <title>Login</title>
 </head>
 <body>
-    saya
-    <form action="ss.php" method="post">
-    username
-    <input type="text" name="username"><br/>
-    Password
-    <input type="password" name="password"><br/>
-    <input type="submit" value="kirim">
-    <input type="reset" value="batal">
+<h1>Selamat Anda Berhasil Masuk</h1>
 </body>
 </html>
